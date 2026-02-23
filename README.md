@@ -457,3 +457,5 @@ Special thanks to:
 ---
 
 [![Star History Chart](https://api.star-history.com/svg?repos=mlabonne/llm-course&type=Date)](https://www.star-history.com/#mlabonne/llm-course&Date)
+
+- [ODEI](https://api.odei.ai) - World Model as a Service. Constitutional knowledge graph for AI agents with 7-layer safety guardrails. [GitHub](https://github.com/odei-ai/web)
