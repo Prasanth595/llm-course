@@ -350,7 +350,7 @@ With RAG, LLMs retrieve contextual documents from a database to improve the accu
 * **Evaluation**: We need to evaluate both the document retrieval (context precision and recall) and the generation stages (faithfulness and answer relevancy). It can be simplified with tools [Ragas](https://github.com/explodinggradients/ragas/tree/main) and [DeepEval](https://github.com/confident-ai/deepeval) (assessing quality).
 
 📚 **References**:
-* [Llamaindex - High-level concepts](https://docs.llamaindex.ai/en/stable/getting_started/concepts.html): Main concepts to know when building RAG pipelines.
+* [Llamaindex - High-level concepts](https://developers.llamaindex.ai/python/framework/getting_started/concepts/): Main concepts to know when building RAG pipelines.
 * [Model Context Protocol](https://modelcontextprotocol.io/introduction): Introduction to MCP with motivate, architecture, and quick starts.
 * [Pinecone - Retrieval Augmentation](https://www.pinecone.io/learn/series/langchain/langchain-retrieval-augmentation/): Overview of the retrieval augmentation process. 
 * [LangChain - Q&A with RAG](https://python.langchain.com/docs/tutorials/rag/): Step-by-step tutorial to build a typical RAG pipeline.
