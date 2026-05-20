@@ -436,6 +436,7 @@ In addition to traditional security problems associated with software, LLMs have
 * [OWASP LLM Top 10](https://owasp.org/www-project-top-10-for-large-language-model-applications/) by HEGO Wiki: List of the 10 most critical vulnerabilities seen in LLM applications.
 * [Prompt Injection Primer](https://github.com/jthack/PIPE) by Joseph Thacker: Short guide dedicated to prompt injection for engineers.
 * [LLM Security](https://llmsecurity.net/) by [@llm_sec](https://twitter.com/llm_sec): Extensive list of resources related to LLM security.
+* [OWASP Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard) by Vaishnavi Gudur: Official OWASP reference implementation for ASI06 (Memory Poisoning) from the OWASP Top 10 for Agentic Applications — a scan-before-write guard for AI agent memory.
 * [Red teaming LLMs](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/red-teaming) by Microsoft: Guide on how to perform red teaming with LLMs.
 
 ---
