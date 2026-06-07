@@ -395,7 +395,7 @@ An LLM agent can autonomously perform tasks by taking actions based on reasoning
 
 Text generation is a costly process that requires expensive hardware. In addition to quantization, various techniques have been proposed to maximize throughput and reduce inference costs.
 
-* **Flash Attention**: Optimization of the attention mechanism to transform its complexity from quadratic to linear, speeding up both training and inference.
+* **Flash Attention**: Reduces the memory complexity of attention from quadratic to near-linear, making Transformers faster and more memory-efficient, while the computational time complexity remains quadratic.
 * **Key-value cache**: Understand the key-value cache and the improvements introduced in [Multi-Query Attention](https://arxiv.org/abs/1911.02150) (MQA) and [Grouped-Query Attention](https://arxiv.org/abs/2305.13245) (GQA).
 * **Speculative decoding**: Use a small model to produce drafts that are then reviewed by a larger model to speed up text generation. EAGLE-3 is a particularly popular solution.
 
