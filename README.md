@@ -389,6 +389,7 @@ An LLM agent can autonomously perform tasks by taking actions based on reasoning
 * [Agents Course](https://huggingface.co/learn/agents-course/unit0/introduction): Popular course about AI agents made by Hugging Face.
 * [LangGraph](https://langchain-ai.github.io/langgraph/concepts/why-langgraph/): Overview of how to build AI agents with LangGraph.
 * [LlamaIndex Agents](https://docs.llamaindex.ai/en/stable/use_cases/agents/): Uses cases and resources to build agents with LlamaIndex.
+* [GenAI Agents](https://github.com/NirDiamant/GenAI_Agents): 50+ hands-on tutorials for building Generative AI agents, from simple tool-use to multi-agent systems, each as a runnable notebook.
 
 ---
 ### 6. Inference optimization
