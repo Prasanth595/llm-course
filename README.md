@@ -457,3 +457,7 @@ Special thanks to:
 ---
 
 [![Star History Chart](https://api.star-history.com/svg?repos=mlabonne/llm-course&type=Date)](https://www.star-history.com/#mlabonne/llm-course&Date)
+
+## Directories
+
+- [OpenRuna](https://www.openruna.com/hubs/llm-models) — Searchable graph of LLM models, benchmarks, datasets, and prompts with typed resource relations.
