@@ -457,3 +457,7 @@ Special thanks to:
 ---
 
 [![Star History Chart](https://api.star-history.com/svg?repos=mlabonne/llm-course&type=Date)](https://www.star-history.com/#mlabonne/llm-course&Date)
+
+## Helium Open Benchmarks
+- [Market Resolution](https://huggingface.co/datasets/HeliumTrades/helium-market-resolution-benchmark) | [Model Worldview](https://huggingface.co/datasets/HeliumTrades/helium-model-worldview-benchmark) — https://heliumtrades.com/benchmarks/
+
