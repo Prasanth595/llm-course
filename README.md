@@ -319,6 +319,7 @@ Running LLMs can be difficult due to high hardware requirements. Depending on yo
 
 📚 **References**:
 * [Run an LLM locally with LM Studio](https://www.kdnuggets.com/run-an-llm-locally-with-lm-studio) by Nisha Arya: Short guide on how to use LM Studio.
+* [AMD Strix Halo local LLM setup and benchmark guide](https://github.com/hogeheer499-commits/strix-halo-guide): Reproducible Ubuntu, Ollama, llama.cpp, Vulkan/RADV, and ROCm setup with public benchmark evidence for Ryzen AI MAX+ 395 systems.
 * [Prompt engineering guide](https://www.promptingguide.ai/) by DAIR.AI: Exhaustive list of prompt techniques with examples
 * [Outlines - Quickstart](https://dottxt-ai.github.io/outlines/latest/quickstart/): List of guided generation techniques enabled by Outlines. 
 * [LMQL - Overview](https://lmql.ai/docs/language/overview.html): Introduction to the LMQL language.
