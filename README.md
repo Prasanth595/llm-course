@@ -406,7 +406,7 @@ Text generation is a costly process that requires expensive hardware. In additio
 * [Assisted Generation](https://huggingface.co/blog/assisted-generation) by Hugging Face: HF's version of speculative decoding. It's an interesting blog post about how it works with code to implement it.
 * [EAGLE-3 paper](https://arxiv.org/abs/2503.01840?utm_source=chatgpt.com): Introduces EAGLE-3 and reports speedups up to 6.5×.
 * [Speculators](https://github.com/vllm-project/speculators): Library made by vLLM for building, evaluating, and storing speculative decoding algorithms (e.g., EAGLE-3) for LLM inference.
-* [Entroly](https://github.com/juyterman1000/entroly): Local context compression engine that reduces input tokens by 70-95% for AI coding agents. Uses knapsack optimization, entropy scoring, and cache alignment to cut API costs without accuracy loss. Works with Claude, Cursor, Codex, Aider, and 34 more tools.
+* [Entroly](https://github.com/juyterman1000/entroly): Local-first MCP server for explicit-budget context selection, content-addressed exact recovery, and auditable Context Receipts.
 
 ---
 ### 7. Deploying LLMs
