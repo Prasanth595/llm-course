@@ -406,6 +406,7 @@ Text generation is a costly process that requires expensive hardware. In additio
 * [Assisted Generation](https://huggingface.co/blog/assisted-generation) by Hugging Face: HF's version of speculative decoding. It's an interesting blog post about how it works with code to implement it.
 * [EAGLE-3 paper](https://arxiv.org/abs/2503.01840?utm_source=chatgpt.com): Introduces EAGLE-3 and reports speedups up to 6.5×.
 * [Speculators](https://github.com/vllm-project/speculators): Library made by vLLM for building, evaluating, and storing speculative decoding algorithms (e.g., EAGLE-3) for LLM inference.
+* [Entroly](https://github.com/juyterman1000/entroly): Local-first MCP server for explicit-budget context selection, content-addressed exact recovery, and auditable Context Receipts.
 
 ---
 ### 7. Deploying LLMs
