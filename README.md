@@ -151,7 +151,7 @@ NLP is a fascinating branch of artificial intelligence that bridges the gap betw
 - [Lena Voita - Word Embeddings](https://lena-voita.github.io/nlp_course/word_embeddings.html): Beginner-friendly course about concepts related to word embeddings.
 - [RealPython - NLP with spaCy in Python](https://realpython.com/natural-language-processing-spacy-python/): Exhaustive guide about the spaCy library for NLP tasks in Python.
 - [Kaggle - NLP Guide](https://www.kaggle.com/learn-guide/natural-language-processing): A few notebooks and resources for a hands-on explanation of NLP in Python.
-- [Jay Alammar - The Illustration Word2Vec](https://jalammar.github.io/illustrated-word2vec/): A good reference to understand the famous Word2Vec architecture.
+- [Jay Alammar - The Illustrated Word2Vec](https://jalammar.github.io/illustrated-word2vec/): A good reference to understand the famous Word2Vec architecture.
 - [Jake Tae - PyTorch RNN from Scratch](https://jaketae.github.io/study/pytorch-rnn/): Practical and simple implementation of RNN, LSTM, and GRU models in PyTorch.
 - [colah's blog - Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/): A more theoretical article about the LSTM network.
 </details>
@@ -176,7 +176,7 @@ An in-depth knowledge of the Transformer architecture is not required, but it's 
 * [LLM Visualization](https://bbycroft.net/llm) by Brendan Bycroft: Interactive 3D visualization of LLM internals.
 * [nanoGPT](https://www.youtube.com/watch?v=kCc8FmEb1nY) by Andrej Karpathy: A 2h-long YouTube video to reimplement GPT from scratch (for programmers). He also made a video about [tokenization](https://www.youtube.com/watch?v=zduSFxRajkE).
 * [Attention? Attention!](https://lilianweng.github.io/posts/2018-06-24-attention/) by Lilian Weng: Historical overview to introduce the need for attention mechanisms.
-* [Decoding Strategies in LLMs](https://mlabonne.github.io/blog/posts/2023-06-07-Decoding_strategies.html) by Maxime Labonne: Provide code and a visual introduction to the different decoding strategies to generate text.
+* [Decoding Strategies in LLMs](https://mlabonne.github.io/blog/posts/2023-06-07-Decoding_strategies.html) by Maxime Labonne: Provides code and a visual introduction to the different decoding strategies to generate text.
 
 ---
 ### 2. Pre-Training Models
