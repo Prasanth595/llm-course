@@ -64,7 +64,7 @@ A list of notebooks and articles I wrote about LLMs.
 
 | Notebook | Description | Article | Notebook |
 |---------------------------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Merge LLMs with MergeKit | Create your own models easily, no GPU required! | [Article](https://mlabonne.github.io/blog/posts/2024-01-08_Merge_LLMs_with_mergekit%20copy.html) | <a href="https://colab.research.google.com/drive/1_JS7JKJAQozD48-LhYdegcuuZ2ddgXfr?usp=sharing"><img src="img/colab.svg" alt="Open In Colab"></a> |
+| Merge LLMs with MergeKit | Create your own models easily, no GPU required! | [Article](https://mlabonne.github.io/blog/posts/2024-01-08_Merge_LLMs_with_mergekit.html) | <a href="https://colab.research.google.com/drive/1_JS7JKJAQozD48-LhYdegcuuZ2ddgXfr?usp=sharing"><img src="img/colab.svg" alt="Open In Colab"></a> |
 | Create MoEs with MergeKit | Combine multiple experts into a single frankenMoE | [Article](https://mlabonne.github.io/blog/posts/2024-03-28_Create_Mixture_of_Experts_with_MergeKit.html) | <a href="https://colab.research.google.com/drive/1obulZ1ROXHjYLn6PPZJwRR6GzgQogxxb?usp=sharing"><img src="img/colab.svg" alt="Open In Colab"></a> |
 | Uncensor any LLM with abliteration | Fine-tuning without retraining | [Article](https://mlabonne.github.io/blog/posts/2024-06-04_Uncensor_any_LLM_with_abliteration.html) | <a href="https://colab.research.google.com/drive/1VYm3hOcvCpbGiqKZb141gJwjdmmCcVpR?usp=sharing"><img src="img/colab.svg" alt="Open In Colab"></a> |
 | Improve ChatGPT with Knowledge Graphs | Augment ChatGPT's answers with knowledge graphs. | [Article](https://mlabonne.github.io/blog/posts/Article_Improve_ChatGPT_with_Knowledge_Graphs.html) | <a href="https://colab.research.google.com/drive/1mwhOSw9Y9bgEaIFKT4CLi0n18pXRM4cj?usp=sharing"><img src="img/colab.svg" alt="Open In Colab"></a> |
@@ -151,7 +151,7 @@ NLP is a fascinating branch of artificial intelligence that bridges the gap betw
 - [Lena Voita - Word Embeddings](https://lena-voita.github.io/nlp_course/word_embeddings.html): Beginner-friendly course about concepts related to word embeddings.
 - [RealPython - NLP with spaCy in Python](https://realpython.com/natural-language-processing-spacy-python/): Exhaustive guide about the spaCy library for NLP tasks in Python.
 - [Kaggle - NLP Guide](https://www.kaggle.com/learn-guide/natural-language-processing): A few notebooks and resources for a hands-on explanation of NLP in Python.
-- [Jay Alammar - The Illustration Word2Vec](https://jalammar.github.io/illustrated-word2vec/): A good reference to understand the famous Word2Vec architecture.
+- [Jay Alammar - The Illustrated Word2Vec](https://jalammar.github.io/illustrated-word2vec/): A good reference to understand the famous Word2Vec architecture.
 - [Jake Tae - PyTorch RNN from Scratch](https://jaketae.github.io/study/pytorch-rnn/): Practical and simple implementation of RNN, LSTM, and GRU models in PyTorch.
 - [colah's blog - Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/): A more theoretical article about the LSTM network.
 </details>
@@ -176,7 +176,7 @@ An in-depth knowledge of the Transformer architecture is not required, but it's 
 * [LLM Visualization](https://bbycroft.net/llm) by Brendan Bycroft: Interactive 3D visualization of LLM internals.
 * [nanoGPT](https://www.youtube.com/watch?v=kCc8FmEb1nY) by Andrej Karpathy: A 2h-long YouTube video to reimplement GPT from scratch (for programmers). He also made a video about [tokenization](https://www.youtube.com/watch?v=zduSFxRajkE).
 * [Attention? Attention!](https://lilianweng.github.io/posts/2018-06-24-attention/) by Lilian Weng: Historical overview to introduce the need for attention mechanisms.
-* [Decoding Strategies in LLMs](https://mlabonne.github.io/blog/posts/2023-06-07-Decoding_strategies.html) by Maxime Labonne: Provide code and a visual introduction to the different decoding strategies to generate text.
+* [Decoding Strategies in LLMs](https://mlabonne.github.io/blog/posts/2023-06-07-Decoding_strategies.html) by Maxime Labonne: Provides code and a visual introduction to the different decoding strategies to generate text.
 
 ---
 ### 2. Pre-Training Models
