@@ -154,6 +154,7 @@ NLP is a fascinating branch of artificial intelligence that bridges the gap betw
 - [Jay Alammar - The Illustration Word2Vec](https://jalammar.github.io/illustrated-word2vec/): A good reference to understand the famous Word2Vec architecture.
 - [Jake Tae - PyTorch RNN from Scratch](https://jaketae.github.io/study/pytorch-rnn/): Practical and simple implementation of RNN, LSTM, and GRU models in PyTorch.
 - [colah's blog - Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/): A more theoretical article about the LSTM network.
+- [QuiddityML](https://quiddityml.com/?utm_source=github&utm_medium=awesome&utm_campaign=llm-course): Short daily lessons with hands-on exercises (fill in the blank in real code, spot the bug, write it from scratch) and spaced repetition, from Python, PyTorch, and math through tokenization, attention, building GPT, pretraining, SFT, RLHF, and DPO.
 </details>
 
 ## 🧑‍🔬 The LLM Scientist
