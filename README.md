@@ -334,7 +334,7 @@ Creating a vector storage is the first step to building a Retrieval Augmented Ge
 * **Vector databases**: Vector databases (like [Chroma](https://www.trychroma.com/), [Pinecone](https://www.pinecone.io/), [Milvus](https://milvus.io/), [FAISS](https://faiss.ai/), [Annoy](https://github.com/spotify/annoy), etc.) are designed to store embedding vectors. They enable efficient retrieval of data that is 'most similar' to a query based on vector similarity.
 
 📚 **References**:
-* [LangChain - Text splitters](https://python.langchain.com/docs/how_to/#text-splitters): List of different text splitters implemented in LangChain.
+* [LangChain - Text splitters](https://docs.langchain.com/oss/python/integrations/splitters/index): List of different text splitters implemented in LangChain.
 * [Sentence Transformers library](https://www.sbert.net/): Popular library for embedding models.
 * [MTEB Leaderboard](https://huggingface.co/spaces/mteb/leaderboard): Leaderboard for embedding models.
 * [The Top 7 Vector Databases](https://www.datacamp.com/blog/the-top-5-vector-databases) by Moez Ali: A comparison of the best and most popular vector databases.
