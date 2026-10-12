@@ -282,7 +282,7 @@ Quantization is the process of converting the parameters and activations of a mo
 * [4-bit LLM Quantization with GPTQ](https://mlabonne.github.io/blog/posts/4_bit_Quantization_with_GPTQ.html) by Maxime Labonne: Tutorial on how to quantize an LLM using the GPTQ algorithm with AutoGPTQ.
 * [Understanding Activation-Aware Weight Quantization](https://medium.com/friendliai/understanding-activation-aware-weight-quantization-awq-boosting-inference-serving-efficiency-in-10bb0faf63a8) by FriendliAI: Overview of the AWQ technique and its benefits.
 * [SmoothQuant on Llama 2 7B](https://github.com/mit-han-lab/smoothquant/blob/main/examples/smoothquant_llama_demo.ipynb) by MIT HAN Lab: Tutorial on how to use SmoothQuant with a Llama 2 model in 8-bit precision.
-* [DeepSpeed Model Compression](https://www.deepspeed.ai/tutorials/model-compression/) by DeepSpeed: Tutorial on how to use ZeroQuant and extreme compression (XTC) with DeepSpeed Compression.
+* [DeepSpeed Model Compression](https://www.deepspeed.ai/tutorials/) by DeepSpeed: Tutorial on how to use ZeroQuant and extreme compression (XTC) with DeepSpeed Compression.
 
 ---
 ### 8. New Trends
@@ -320,7 +320,7 @@ Running LLMs can be difficult due to high hardware requirements. Depending on yo
 📚 **References**:
 * [Run an LLM locally with LM Studio](https://www.kdnuggets.com/run-an-llm-locally-with-lm-studio) by Nisha Arya: Short guide on how to use LM Studio.
 * [Prompt engineering guide](https://www.promptingguide.ai/) by DAIR.AI: Exhaustive list of prompt techniques with examples
-* [Outlines - Quickstart](https://dottxt-ai.github.io/outlines/latest/quickstart/): List of guided generation techniques enabled by Outlines. 
+* [Outlines - Quickstart](https://dottxt-ai.github.io/outlines/latest/guide/getting_started/): List of guided generation techniques enabled by Outlines. 
 * [LMQL - Overview](https://lmql.ai/docs/language/overview.html): Introduction to the LMQL language.
 
 ---
